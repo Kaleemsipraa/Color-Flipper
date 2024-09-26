@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: monospace;
+}
+
+main{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	gap: 40px;
+}
+.bg-div{
+	width: 600px;
+	height: 150px;
+	border: 2px solid black;
+
+}
+h3{
+	margin-top: 40px;
+	font-size: 2rem;
+}
+.btn{
+	font-size: 1.5rem;
+/*	border: 0;*/
+	outline: 0;
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	border-radius: 8px;
+	transition: ease all 0.5s;
+	cursor: pointer;
+}
+.btn:hover{
+	background-color: transparent;
+	color: black;
+	border: 2px solid black;
+}
