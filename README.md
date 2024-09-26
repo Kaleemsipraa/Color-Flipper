@@ -14,7 +14,8 @@ A simple web application that changes the background color to a random color wit
 
 
 
-Check out the live demo of the Color Flipper here: [Live Demo](your-demo-link)
+Check out the live demo of the Color Flipper here: 
+[Live Demo](https://kaleemsipraa.github.io/Color-Flipper/)
 
 ## 💻 Technologies Used
 
